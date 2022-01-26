@@ -1,7 +1,7 @@
 # qrcode-tools
 ## ⚒️ Installation
 
-<pre><code>git clone https://github.com/eyyub1337/qrcode-tools \
+<pre><code>git clone https://github.com/0xe2d0/qrcode-tools \
  && pip3 install pyzbar \
  && pip3 install qrcode[pil] </code></pre>
  
